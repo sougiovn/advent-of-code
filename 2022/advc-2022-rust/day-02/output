@@ -1,0 +1,11513 @@
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 2
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 9
+Round result: 12
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 13
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 19
+Round result: 22
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 23
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 24
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 30
+Round result: 33
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 34
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 40
+Round result: 43
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 44
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 45
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 48
+Round result: 49
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 51
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 54
+Round result: 55
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 57
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 60
+Round result: 62
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 63
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 65
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 71
+Round result: 74
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 77
+Round result: 78
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 79
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 80
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 81
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 87
+Round result: 90
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 96
+Round result: 99
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 102
+Round result: 105
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 111
+Round result: 114
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 120
+Round result: 123
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 124
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 130
+Round result: 133
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 134
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 140
+Round result: 143
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 149
+Round result: 152
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 153
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 155
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 161
+Round result: 164
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 166
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 172
+Round result: 175
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 178
+Round result: 180
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 181
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 183
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 189
+Round result: 192
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 198
+Round result: 201
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 207
+Round result: 210
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 211
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 213
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 214
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 220
+Round result: 223
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 226
+Round result: 227
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 228
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 231
+Round result: 232
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 238
+Round result: 241
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 243
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 245
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 248
+Round result: 249
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 250
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 251
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 252
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 258
+Round result: 261
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 263
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 264
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 270
+Round result: 273
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 279
+Round result: 282
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 284
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 285
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 287
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 293
+Round result: 296
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 297
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 298
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 304
+Round result: 307
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 313
+Round result: 316
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 319
+Round result: 322
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 325
+Round result: 327
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 329
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 332
+Round result: 334
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 340
+Round result: 343
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 346
+Round result: 347
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 353
+Round result: 355
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 361
+Round result: 363
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 365
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 366
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 367
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 373
+Round result: 376
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 377
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 378
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 384
+Round result: 387
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 393
+Round result: 396
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 398
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 401
+Round result: 404
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 407
+Round result: 410
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 411
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 417
+Round result: 420
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 422
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 428
+Round result: 430
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 433
+Round result: 434
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 435
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 441
+Round result: 444
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 447
+Round result: 449
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 450
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 456
+Round result: 459
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 465
+Round result: 468
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 471
+Round result: 472
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 474
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 476
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 477
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 480
+Round result: 481
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 487
+Round result: 490
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 496
+Round result: 499
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 502
+Round result: 503
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 509
+Round result: 512
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 513
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 516
+Round result: 519
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 522
+Round result: 525
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 527
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 530
+Round result: 533
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 539
+Round result: 542
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 545
+Round result: 548
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 550
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 556
+Round result: 559
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 562
+Round result: 563
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 565
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 566
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 568
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 574
+Round result: 577
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 579
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 585
+Round result: 588
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 591
+Round result: 592
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 598
+Round result: 601
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 604
+Round result: 605
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 611
+Round result: 613
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 619
+Round result: 622
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 623
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 625
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 627
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 633
+Round result: 636
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 642
+Round result: 645
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 651
+Round result: 654
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 655
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 661
+Round result: 664
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 667
+Round result: 668
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 674
+Round result: 677
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 683
+Round result: 686
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 687
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 693
+Round result: 696
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 702
+Round result: 705
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 708
+Round result: 710
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 711
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 713
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 714
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 715
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 721
+Round result: 724
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 730
+Round result: 733
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 735
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 741
+Round result: 744
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 746
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 747
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 749
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 751
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 757
+Round result: 760
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 761
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 767
+Round result: 770
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 776
+Round result: 779
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 781
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 783
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 789
+Round result: 792
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 795
+Round result: 796
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 797
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 803
+Round result: 806
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 807
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 810
+Round result: 812
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 818
+Round result: 820
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 821
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 822
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 824
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 830
+Round result: 833
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 836
+Round result: 839
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 840
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 843
+Round result: 846
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 852
+Round result: 855
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 858
+Round result: 860
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 863
+Round result: 864
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 870
+Round result: 873
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 879
+Round result: 882
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 888
+Round result: 891
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 892
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 895
+Round result: 896
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 897
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 899
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 902
+Round result: 905
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 911
+Round result: 914
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 920
+Round result: 923
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 924
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 925
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 931
+Round result: 933
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 936
+Round result: 938
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 940
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 943
+Round result: 945
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 951
+Round result: 954
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 957
+Round result: 958
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 964
+Round result: 966
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 972
+Round result: 975
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 976
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 982
+Round result: 985
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 988
+Round result: 991
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 994
+Round result: 997
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1003
+Round result: 1006
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1008
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1010
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 1011
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 1012
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1018
+Round result: 1021
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1027
+Round result: 1030
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1032
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 1038
+Round result: 1041
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 1042
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1044
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 1050
+Round result: 1052
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 1055
+Round result: 1056
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1062
+Round result: 1065
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 1068
+Round result: 1071
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 1072
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 1073
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 1074
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 1080
+Round result: 1083
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1085
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1091
+Round result: 1094
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1100
+Round result: 1103
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 1104
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1106
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 1109
+Round result: 1112
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1118
+Round result: 1121
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1123
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 1126
+Round result: 1127
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 1133
+Round result: 1136
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 1142
+Round result: 1145
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1147
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 1150
+Round result: 1151
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1157
+Round result: 1160
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1162
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 1163
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 1164
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1170
+Round result: 1173
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 1176
+Round result: 1179
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1185
+Round result: 1188
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1194
+Round result: 1197
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 1198
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 1204
+Round result: 1207
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1209
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1211
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 1212
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1218
+Round result: 1221
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 1224
+Round result: 1226
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1232
+Round result: 1235
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1241
+Round result: 1244
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1246
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 1249
+Round result: 1250
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 1256
+Round result: 1258
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1260
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 1263
+Round result: 1264
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1266
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 1269
+Round result: 1272
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 1278
+Round result: 1280
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 1283
+Round result: 1284
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1290
+Round result: 1293
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 1296
+Round result: 1297
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 1300
+Round result: 1301
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 1307
+Round result: 1309
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 1310
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1316
+Round result: 1319
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 1322
+Round result: 1325
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1331
+Round result: 1334
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1340
+Round result: 1343
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 1344
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 1345
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 1346
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 1349
+Round result: 1350
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1352
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 1353
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1355
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 1358
+Round result: 1359
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1365
+Round result: 1368
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 1371
+Round result: 1372
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 1378
+Round result: 1380
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1386
+Round result: 1389
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1391
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1397
+Round result: 1400
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1406
+Round result: 1409
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1411
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 1417
+Round result: 1419
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 1425
+Round result: 1428
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 1429
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1431
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1433
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 1434
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 1437
+Round result: 1440
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1442
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1448
+Round result: 1451
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 1454
+Round result: 1457
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 1458
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 1461
+Round result: 1464
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1470
+Round result: 1473
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 1479
+Round result: 1482
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 1483
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 1484
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 1485
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 1486
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1492
+Round result: 1495
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 1496
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 1497
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 1498
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 1504
+Round result: 1507
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 1510
+Round result: 1511
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 1517
+Round result: 1520
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1526
+Round result: 1529
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1535
+Round result: 1538
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1544
+Round result: 1547
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 1550
+Round result: 1551
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1553
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1555
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1561
+Round result: 1564
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 1567
+Round result: 1568
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 1571
+Round result: 1572
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 1575
+Round result: 1577
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1579
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 1580
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 1581
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1583
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 1584
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1586
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 1589
+Round result: 1590
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 1591
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 1597
+Round result: 1600
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 1606
+Round result: 1608
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 1611
+Round result: 1613
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 1619
+Round result: 1622
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 1623
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1629
+Round result: 1632
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1638
+Round result: 1641
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 1647
+Round result: 1649
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 1650
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1652
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 1653
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1659
+Round result: 1662
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 1665
+Round result: 1667
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 1670
+Round result: 1671
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 1677
+Round result: 1680
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 1681
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 1682
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 1685
+Round result: 1688
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 1691
+Round result: 1694
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 1695
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 1696
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 1697
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 1698
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 1699
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1705
+Round result: 1708
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1714
+Round result: 1717
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 1718
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 1721
+Round result: 1723
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1725
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 1731
+Round result: 1734
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 1737
+Round result: 1739
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 1745
+Round result: 1748
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1750
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1756
+Round result: 1759
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 1762
+Round result: 1765
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 1768
+Round result: 1771
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 1774
+Round result: 1776
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 1777
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 1778
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 1779
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 1785
+Round result: 1787
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 1793
+Round result: 1796
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 1799
+Round result: 1801
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 1807
+Round result: 1810
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 1816
+Round result: 1819
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 1822
+Round result: 1823
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 1829
+Round result: 1832
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 1835
+Round result: 1837
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 1840
+Round result: 1841
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 1844
+Round result: 1845
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 1848
+Round result: 1851
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 1852
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 1853
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 1854
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 1857
+Round result: 1860
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 1866
+Round result: 1869
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 1872
+Round result: 1875
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 1878
+Round result: 1880
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1886
+Round result: 1889
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 1892
+Round result: 1893
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1899
+Round result: 1902
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 1905
+Round result: 1908
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 1909
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1911
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 1912
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 1918
+Round result: 1921
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1923
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1925
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1927
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 1928
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1930
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 1936
+Round result: 1938
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1940
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 1941
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 1947
+Round result: 1950
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 1953
+Round result: 1954
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1960
+Round result: 1963
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 1966
+Round result: 1969
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 1970
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 1973
+Round result: 1974
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 1977
+Round result: 1979
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 1981
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1987
+Round result: 1990
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 1996
+Round result: 1999
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2005
+Round result: 2008
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 2011
+Round result: 2014
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 2020
+Round result: 2023
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 2025
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 2026
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 2029
+Round result: 2032
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 2033
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2039
+Round result: 2042
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2048
+Round result: 2051
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 2054
+Round result: 2055
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2061
+Round result: 2064
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 2070
+Round result: 2073
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 2079
+Round result: 2082
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 2083
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 2085
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 2087
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 2090
+Round result: 2091
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 2092
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 2095
+Round result: 2097
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 2100
+Round result: 2101
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 2103
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 2109
+Round result: 2112
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 2114
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 2116
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 2117
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 2118
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2124
+Round result: 2127
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 2128
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 2134
+Round result: 2136
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 2138
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 2140
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 2143
+Round result: 2146
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 2147
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 2153
+Round result: 2155
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 2158
+Round result: 2159
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 2162
+Round result: 2163
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 2165
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 2168
+Round result: 2171
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 2173
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 2176
+Round result: 2177
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 2179
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 2182
+Round result: 2183
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 2186
+Round result: 2188
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 2189
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 2192
+Round result: 2193
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 2194
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 2195
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 2198
+Round result: 2199
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 2205
+Round result: 2208
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 2211
+Round result: 2212
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 2214
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 2217
+Round result: 2219
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2225
+Round result: 2228
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 2231
+Round result: 2233
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 2236
+Round result: 2239
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 2245
+Round result: 2248
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 2251
+Round result: 2253
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 2259
+Round result: 2262
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 2265
+Round result: 2266
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 2267
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2273
+Round result: 2276
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 2279
+Round result: 2282
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 2283
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2289
+Round result: 2292
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 2298
+Round result: 2301
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2307
+Round result: 2310
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 2311
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2317
+Round result: 2320
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 2321
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 2324
+Round result: 2326
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 2329
+Round result: 2332
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 2335
+Round result: 2337
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 2339
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 2340
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 2341
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 2343
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 2349
+Round result: 2352
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2358
+Round result: 2361
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 2362
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2368
+Round result: 2371
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 2372
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 2375
+Round result: 2378
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 2381
+Round result: 2382
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 2385
+Round result: 2386
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 2389
+Round result: 2390
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 2393
+Round result: 2395
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 2398
+Round result: 2400
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2406
+Round result: 2409
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 2412
+Round result: 2413
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2419
+Round result: 2422
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 2425
+Round result: 2426
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 2432
+Round result: 2435
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2441
+Round result: 2444
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 2445
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 2446
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 2452
+Round result: 2455
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 2458
+Round result: 2459
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2465
+Round result: 2468
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 2471
+Round result: 2474
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 2477
+Round result: 2480
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 2483
+Round result: 2486
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2492
+Round result: 2495
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 2497
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 2498
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 2499
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2505
+Round result: 2508
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 2511
+Round result: 2514
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2520
+Round result: 2523
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 2525
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 2526
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2532
+Round result: 2535
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 2538
+Round result: 2541
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2547
+Round result: 2550
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2556
+Round result: 2559
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2565
+Round result: 2568
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 2569
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 2570
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 2573
+Round result: 2575
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2581
+Round result: 2584
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2590
+Round result: 2593
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 2594
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 2596
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 2599
+Round result: 2600
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 2606
+Round result: 2609
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 2612
+Round result: 2615
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 2618
+Round result: 2621
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 2622
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 2624
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 2630
+Round result: 2633
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 2636
+Round result: 2639
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2645
+Round result: 2648
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2654
+Round result: 2657
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 2659
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 2660
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 2661
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2667
+Round result: 2670
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 2676
+Round result: 2679
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2685
+Round result: 2688
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 2690
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 2693
+Round result: 2694
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 2695
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 2698
+Round result: 2699
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 2702
+Round result: 2705
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 2707
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 2708
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 2709
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2715
+Round result: 2718
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 2721
+Round result: 2724
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2730
+Round result: 2733
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 2736
+Round result: 2739
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 2742
+Round result: 2745
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 2748
+Round result: 2749
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2755
+Round result: 2758
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 2761
+Round result: 2763
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2769
+Round result: 2772
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 2773
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2779
+Round result: 2782
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 2788
+Round result: 2791
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 2792
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 2795
+Round result: 2796
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2802
+Round result: 2805
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 2808
+Round result: 2811
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 2812
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 2815
+Round result: 2816
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 2819
+Round result: 2822
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 2828
+Round result: 2830
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2836
+Round result: 2839
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 2842
+Round result: 2845
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 2847
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 2853
+Round result: 2856
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 2857
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 2860
+Round result: 2863
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 2866
+Round result: 2867
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 2873
+Round result: 2875
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 2876
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 2879
+Round result: 2882
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2888
+Round result: 2891
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 2892
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 2898
+Round result: 2901
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2907
+Round result: 2910
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 2913
+Round result: 2916
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 2919
+Round result: 2922
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 2928
+Round result: 2930
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 2932
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 2933
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 2939
+Round result: 2941
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2947
+Round result: 2950
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 2956
+Round result: 2958
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 2959
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 2960
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 2963
+Round result: 2966
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 2967
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2973
+Round result: 2976
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 2978
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 2981
+Round result: 2982
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 2988
+Round result: 2991
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 2997
+Round result: 3000
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3006
+Round result: 3009
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 3012
+Round result: 3015
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3021
+Round result: 3024
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 3027
+Round result: 3028
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 3034
+Round result: 3036
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 3039
+Round result: 3041
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 3047
+Round result: 3050
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3056
+Round result: 3059
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3065
+Round result: 3068
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3069
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 3075
+Round result: 3077
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 3079
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3085
+Round result: 3088
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3089
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 3092
+Round result: 3094
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 3095
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 3097
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3098
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3104
+Round result: 3107
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3113
+Round result: 3116
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3122
+Round result: 3125
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 3127
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 3128
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 3131
+Round result: 3132
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3138
+Round result: 3141
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3142
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 3145
+Round result: 3148
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3149
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 3155
+Round result: 3158
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3164
+Round result: 3167
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 3169
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3175
+Round result: 3178
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 3181
+Round result: 3182
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 3185
+Round result: 3186
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3192
+Round result: 3195
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 3198
+Round result: 3201
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 3204
+Round result: 3207
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 3208
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 3214
+Round result: 3217
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 3220
+Round result: 3223
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3224
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 3225
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 3227
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3233
+Round result: 3236
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 3239
+Round result: 3240
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3241
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 3247
+Round result: 3250
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 3253
+Round result: 3256
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 3257
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3263
+Round result: 3266
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 3269
+Round result: 3270
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 3273
+Round result: 3274
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3280
+Round result: 3283
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 3285
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3286
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 3292
+Round result: 3294
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3295
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3296
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 3299
+Round result: 3300
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 3306
+Round result: 3309
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 3312
+Round result: 3314
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 3317
+Round result: 3320
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 3323
+Round result: 3326
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3327
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 3333
+Round result: 3335
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3336
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 3337
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3338
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 3341
+Round result: 3343
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 3345
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3351
+Round result: 3354
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 3360
+Round result: 3363
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 3366
+Round result: 3369
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 3375
+Round result: 3377
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 3383
+Round result: 3386
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 3389
+Round result: 3391
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3392
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3398
+Round result: 3401
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3402
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 3404
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 3407
+Round result: 3410
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 3411
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 3414
+Round result: 3415
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3416
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 3422
+Round result: 3425
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3431
+Round result: 3434
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 3440
+Round result: 3442
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 3444
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3450
+Round result: 3453
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3454
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3455
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3456
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 3459
+Round result: 3461
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 3463
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 3464
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3465
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 3471
+Round result: 3474
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 3480
+Round result: 3482
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 3488
+Round result: 3491
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3492
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 3495
+Round result: 3498
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3499
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 3502
+Round result: 3505
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 3508
+Round result: 3510
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 3516
+Round result: 3519
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3525
+Round result: 3528
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 3531
+Round result: 3534
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3540
+Round result: 3543
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3549
+Round result: 3552
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3553
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3559
+Round result: 3562
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 3568
+Round result: 3571
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 3574
+Round result: 3577
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 3580
+Round result: 3583
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3584
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 3590
+Round result: 3592
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 3593
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3599
+Round result: 3602
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 3608
+Round result: 3611
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3617
+Round result: 3620
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 3623
+Round result: 3624
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3630
+Round result: 3633
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 3635
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3636
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3637
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 3640
+Round result: 3641
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3642
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 3643
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 3645
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3646
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3652
+Round result: 3655
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3661
+Round result: 3664
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3665
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 3668
+Round result: 3670
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 3672
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 3675
+Round result: 3677
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 3678
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3679
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 3680
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3686
+Round result: 3689
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3695
+Round result: 3698
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 3700
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 3703
+Round result: 3704
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 3707
+Round result: 3708
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 3714
+Round result: 3717
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 3723
+Round result: 3725
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3726
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 3729
+Round result: 3731
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 3734
+Round result: 3736
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 3742
+Round result: 3744
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 3747
+Round result: 3750
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 3751
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3757
+Round result: 3760
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3766
+Round result: 3769
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3770
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 3772
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3778
+Round result: 3781
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 3783
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 3786
+Round result: 3789
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3790
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 3793
+Round result: 3796
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 3802
+Round result: 3805
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 3808
+Round result: 3810
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 3816
+Round result: 3819
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3825
+Round result: 3828
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 3830
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3831
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 3833
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3839
+Round result: 3842
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3848
+Round result: 3851
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3852
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3853
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3859
+Round result: 3862
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 3865
+Round result: 3866
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 3872
+Round result: 3875
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 3877
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 3880
+Round result: 3882
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 3888
+Round result: 3890
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 3891
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 3892
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 3898
+Round result: 3901
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3907
+Round result: 3910
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3916
+Round result: 3919
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 3925
+Round result: 3928
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 3934
+Round result: 3937
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3938
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3939
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 3941
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 3944
+Round result: 3947
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 3953
+Round result: 3955
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 3957
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 3958
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3964
+Round result: 3967
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3968
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3974
+Round result: 3977
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 3980
+Round result: 3983
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3989
+Round result: 3992
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 3993
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 3999
+Round result: 4002
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 4003
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 4009
+Round result: 4011
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4017
+Round result: 4020
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4021
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4023
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4029
+Round result: 4032
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4033
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4035
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4036
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4037
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 4040
+Round result: 4041
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4042
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4044
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 4050
+Round result: 4053
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4059
+Round result: 4062
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4063
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4065
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4067
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 4073
+Round result: 4076
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4082
+Round result: 4085
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4086
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4087
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 4088
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 4091
+Round result: 4092
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4093
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4095
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4101
+Round result: 4104
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4105
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4106
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4107
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 4110
+Round result: 4113
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 4116
+Round result: 4119
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4125
+Round result: 4128
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4134
+Round result: 4137
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 4140
+Round result: 4143
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 4146
+Round result: 4149
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4150
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 4156
+Round result: 4159
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4161
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4163
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4164
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 4167
+Round result: 4170
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4172
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 4178
+Round result: 4181
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 4187
+Round result: 4190
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 4196
+Round result: 4199
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4201
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4203
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 4204
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4210
+Round result: 4213
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 4216
+Round result: 4218
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 4221
+Round result: 4224
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 4230
+Round result: 4233
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 4236
+Round result: 4239
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4241
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 4244
+Round result: 4247
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 4253
+Round result: 4255
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 4261
+Round result: 4263
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 4264
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4270
+Round result: 4273
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 4274
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 4277
+Round result: 4278
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 4279
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 4282
+Round result: 4285
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4286
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4292
+Round result: 4295
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 4298
+Round result: 4301
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 4304
+Round result: 4307
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4313
+Round result: 4316
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4317
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4318
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 4321
+Round result: 4322
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 4325
+Round result: 4328
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4330
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 4336
+Round result: 4339
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 4345
+Round result: 4348
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 4351
+Round result: 4354
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 4360
+Round result: 4362
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 4365
+Round result: 4367
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4373
+Round result: 4376
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 4379
+Round result: 4382
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 4388
+Round result: 4391
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 4394
+Round result: 4395
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4397
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4403
+Round result: 4406
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 4409
+Round result: 4410
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4416
+Round result: 4419
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4425
+Round result: 4428
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 4434
+Round result: 4437
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 4440
+Round result: 4441
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 4447
+Round result: 4450
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 4453
+Round result: 4456
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4457
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 4458
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4460
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4466
+Round result: 4469
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 4470
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4472
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4474
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4480
+Round result: 4483
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4484
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4486
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 4489
+Round result: 4492
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 4498
+Round result: 4501
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 4502
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4504
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 4510
+Round result: 4513
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4514
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 4517
+Round result: 4519
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 4522
+Round result: 4524
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4526
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4532
+Round result: 4535
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4541
+Round result: 4544
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 4547
+Round result: 4548
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4549
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4555
+Round result: 4558
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4559
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4565
+Round result: 4568
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 4571
+Round result: 4573
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4575
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 4576
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 4579
+Round result: 4582
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4588
+Round result: 4591
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 4594
+Round result: 4597
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4603
+Round result: 4606
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 4609
+Round result: 4611
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4612
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 4615
+Round result: 4618
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 4621
+Round result: 4624
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4626
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 4627
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4633
+Round result: 4636
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4638
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4644
+Round result: 4647
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 4650
+Round result: 4653
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4659
+Round result: 4662
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4668
+Round result: 4671
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 4674
+Round result: 4676
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4677
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4679
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4680
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4681
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 4687
+Round result: 4690
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4692
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4694
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 4697
+Round result: 4700
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 4703
+Round result: 4704
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4705
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 4708
+Round result: 4710
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 4711
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 4717
+Round result: 4719
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4720
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4726
+Round result: 4729
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4731
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4733
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4739
+Round result: 4742
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 4745
+Round result: 4747
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4753
+Round result: 4756
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4758
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4760
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4762
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4763
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4764
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 4770
+Round result: 4773
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4775
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4776
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4777
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 4783
+Round result: 4785
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4787
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4793
+Round result: 4796
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 4799
+Round result: 4800
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 4803
+Round result: 4804
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4805
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4811
+Round result: 4814
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4816
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 4819
+Round result: 4822
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4828
+Round result: 4831
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4837
+Round result: 4840
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 4843
+Round result: 4846
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4848
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4854
+Round result: 4857
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 4858
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 4861
+Round result: 4864
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4870
+Round result: 4873
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4875
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 4878
+Round result: 4881
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 4882
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 4888
+Round result: 4890
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 4896
+Round result: 4899
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 4900
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 4903
+Round result: 4906
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4908
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 4911
+Round result: 4912
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4918
+Round result: 4921
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 4924
+Round result: 4925
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4931
+Round result: 4934
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 4935
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 4938
+Round result: 4941
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4943
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 4944
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 4950
+Round result: 4953
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4955
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4957
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 4963
+Round result: 4966
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 4969
+Round result: 4970
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4972
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 4975
+Round result: 4976
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 4979
+Round result: 4980
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 4983
+Round result: 4984
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 4990
+Round result: 4993
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 4995
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5001
+Round result: 5004
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5010
+Round result: 5013
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5019
+Round result: 5022
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5023
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5029
+Round result: 5032
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 5035
+Round result: 5036
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 5039
+Round result: 5041
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5043
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5044
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5045
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5047
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5049
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 5052
+Round result: 5053
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 5056
+Round result: 5057
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5059
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 5062
+Round result: 5065
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 5066
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5068
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 5071
+Round result: 5072
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5073
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5074
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5076
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5082
+Round result: 5085
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5091
+Round result: 5094
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 5100
+Round result: 5102
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5108
+Round result: 5111
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5113
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5115
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5117
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5123
+Round result: 5126
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 5129
+Round result: 5132
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5133
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5134
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5140
+Round result: 5143
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5144
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 5145
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5151
+Round result: 5154
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 5157
+Round result: 5159
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5160
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5162
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 5165
+Round result: 5166
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5172
+Round result: 5175
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5181
+Round result: 5184
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5185
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5191
+Round result: 5194
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 5195
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5201
+Round result: 5204
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5206
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5212
+Round result: 5215
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5217
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5218
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5224
+Round result: 5227
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 5230
+Round result: 5232
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 5238
+Round result: 5240
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 5243
+Round result: 5244
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 5250
+Round result: 5253
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 5259
+Round result: 5262
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 5265
+Round result: 5267
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 5270
+Round result: 5271
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 5274
+Round result: 5275
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5277
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5279
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 5282
+Round result: 5283
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5289
+Round result: 5292
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5293
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 5299
+Round result: 5302
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5308
+Round result: 5311
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5317
+Round result: 5320
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 5326
+Round result: 5328
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5329
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5335
+Round result: 5338
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 5344
+Round result: 5346
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 5349
+Round result: 5352
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5354
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 5355
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 5358
+Round result: 5361
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 5364
+Round result: 5367
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5368
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5370
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5371
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5373
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5379
+Round result: 5382
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5388
+Round result: 5391
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5397
+Round result: 5400
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5406
+Round result: 5409
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 5412
+Round result: 5413
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 5416
+Round result: 5419
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5425
+Round result: 5428
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 5434
+Round result: 5437
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 5440
+Round result: 5441
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 5444
+Round result: 5445
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5446
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5448
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5449
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5450
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 5453
+Round result: 5456
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5457
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 5463
+Round result: 5465
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5471
+Round result: 5474
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5475
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 5481
+Round result: 5484
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5490
+Round result: 5493
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5495
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5501
+Round result: 5504
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 5510
+Round result: 5513
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 5516
+Round result: 5517
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5518
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 5524
+Round result: 5527
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 5530
+Round result: 5533
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 5536
+Round result: 5537
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 5540
+Round result: 5543
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5545
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5547
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 5550
+Round result: 5551
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5552
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 5555
+Round result: 5557
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5559
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5561
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 5567
+Round result: 5570
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5576
+Round result: 5579
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 5585
+Round result: 5588
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 5591
+Round result: 5594
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 5600
+Round result: 5603
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5605
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 5608
+Round result: 5609
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5610
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5612
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5614
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 5617
+Round result: 5619
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5625
+Round result: 5628
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 5634
+Round result: 5637
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5638
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 5641
+Round result: 5643
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 5646
+Round result: 5647
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5649
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 5655
+Round result: 5657
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 5660
+Round result: 5663
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 5669
+Round result: 5672
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 5675
+Round result: 5678
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 5681
+Round result: 5682
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 5683
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 5689
+Round result: 5692
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 5698
+Round result: 5700
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5701
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 5704
+Round result: 5705
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5711
+Round result: 5714
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 5717
+Round result: 5719
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5721
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 5724
+Round result: 5726
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5727
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5733
+Round result: 5736
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5737
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5739
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5745
+Round result: 5748
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 5749
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 5750
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 5753
+Round result: 5754
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5755
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 5758
+Round result: 5761
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 5764
+Round result: 5765
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5771
+Round result: 5774
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5775
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5776
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 5779
+Round result: 5782
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 5785
+Round result: 5787
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 5793
+Round result: 5796
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 5799
+Round result: 5800
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5802
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 5805
+Round result: 5808
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5814
+Round result: 5817
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5818
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 5821
+Round result: 5823
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 5824
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5825
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 5828
+Round result: 5831
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5833
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5839
+Round result: 5842
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 5848
+Round result: 5851
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 5852
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5858
+Round result: 5861
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5862
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5864
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5865
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5866
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5872
+Round result: 5875
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5881
+Round result: 5884
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5890
+Round result: 5893
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5899
+Round result: 5902
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5908
+Round result: 5911
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5912
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 5918
+Round result: 5920
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 5923
+Round result: 5926
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5928
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5929
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 5930
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 5936
+Round result: 5939
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5945
+Round result: 5948
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5950
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 5953
+Round result: 5956
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 5957
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 5958
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 5961
+Round result: 5964
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5970
+Round result: 5973
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 5976
+Round result: 5979
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 5980
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 5986
+Round result: 5989
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 5992
+Round result: 5995
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 5997
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6003
+Round result: 6006
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 6009
+Round result: 6010
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 6013
+Round result: 6014
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 6016
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 6019
+Round result: 6022
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 6023
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 6024
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 6030
+Round result: 6033
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 6036
+Round result: 6039
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 6042
+Round result: 6045
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6051
+Round result: 6054
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 6057
+Round result: 6060
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 6061
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 6062
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 6065
+Round result: 6066
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 6067
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 6068
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 6071
+Round result: 6074
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 6075
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 6078
+Round result: 6079
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 6081
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6087
+Round result: 6090
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 6091
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 6092
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 6093
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 6096
+Round result: 6099
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 6100
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6106
+Round result: 6109
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6115
+Round result: 6118
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 6124
+Round result: 6127
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6133
+Round result: 6136
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 6137
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 6143
+Round result: 6146
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 6148
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6154
+Round result: 6157
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 6160
+Round result: 6163
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 6164
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 6167
+Round result: 6170
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 6173
+Round result: 6175
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 6177
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 6180
+Round result: 6181
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 6184
+Round result: 6186
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6192
+Round result: 6195
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 6198
+Round result: 6201
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 6202
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 6205
+Round result: 6208
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 6210
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6216
+Round result: 6219
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6225
+Round result: 6228
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6234
+Round result: 6237
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6243
+Round result: 6246
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 6249
+Round result: 6250
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 6251
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6257
+Round result: 6260
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 6263
+Round result: 6265
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 6268
+Round result: 6270
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6276
+Round result: 6279
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 6285
+Round result: 6288
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6294
+Round result: 6297
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6303
+Round result: 6306
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 6307
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 6308
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 6309
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 6310
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 6316
+Round result: 6319
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6325
+Round result: 6328
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 6334
+Round result: 6336
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 6337
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 6340
+Round result: 6342
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 6345
+Round result: 6346
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6352
+Round result: 6355
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 6358
+Round result: 6359
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6365
+Round result: 6368
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 6370
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 6371
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6377
+Round result: 6380
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 6382
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 6388
+Round result: 6390
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 6393
+Round result: 6394
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 6397
+Round result: 6400
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 6401
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 6407
+Round result: 6409
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6415
+Round result: 6418
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 6420
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 6423
+Round result: 6424
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 6427
+Round result: 6430
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 6432
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 6435
+Round result: 6438
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 6444
+Round result: 6447
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 6450
+Round result: 6452
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 6458
+Round result: 6461
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 6463
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 6465
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 6471
+Round result: 6473
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 6479
+Round result: 6482
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 6484
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 6485
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 6486
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 6487
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 6490
+Round result: 6493
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 6499
+Round result: 6501
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 6502
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 6504
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 6510
+Round result: 6513
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 6516
+Round result: 6518
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 6521
+Round result: 6523
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6529
+Round result: 6532
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 6538
+Round result: 6541
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6547
+Round result: 6550
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 6556
+Round result: 6558
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 6559
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 6565
+Round result: 6568
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6574
+Round result: 6577
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 6580
+Round result: 6582
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 6585
+Round result: 6588
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 6594
+Round result: 6596
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 6597
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 6603
+Round result: 6606
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 6609
+Round result: 6611
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6617
+Round result: 6620
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6626
+Round result: 6629
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6635
+Round result: 6638
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6644
+Round result: 6647
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6653
+Round result: 6656
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 6659
+Round result: 6660
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 6663
+Round result: 6666
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 6668
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6674
+Round result: 6677
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 6678
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 6681
+Round result: 6682
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 6685
+Round result: 6687
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 6693
+Round result: 6695
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6701
+Round result: 6704
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 6707
+Round result: 6710
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 6711
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 6713
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6719
+Round result: 6722
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6728
+Round result: 6731
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 6734
+Round result: 6737
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6743
+Round result: 6746
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 6747
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 6750
+Round result: 6751
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 6754
+Round result: 6755
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 6756
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 6757
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 6763
+Round result: 6766
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 6767
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 6768
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 6770
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 6772
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6778
+Round result: 6781
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 6787
+Round result: 6789
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6795
+Round result: 6798
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 6801
+Round result: 6804
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 6806
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 6809
+Round result: 6811
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6817
+Round result: 6820
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 6822
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 6824
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 6830
+Round result: 6833
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 6836
+Round result: 6837
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 6843
+Round result: 6845
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 6848
+Round result: 6851
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 6857
+Round result: 6859
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 6860
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6866
+Round result: 6869
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 6871
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6877
+Round result: 6880
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6886
+Round result: 6889
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 6895
+Round result: 6898
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 6901
+Round result: 6903
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 6904
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 6905
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 6906
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 6907
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 6913
+Round result: 6916
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 6917
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 6918
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6924
+Round result: 6927
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 6928
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 6929
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 6932
+Round result: 6933
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 6934
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6940
+Round result: 6943
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 6945
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 6946
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 6952
+Round result: 6955
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 6961
+Round result: 6964
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 6967
+Round result: 6969
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 6975
+Round result: 6978
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 6979
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 6980
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 6986
+Round result: 6989
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 6990
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 6993
+Round result: 6996
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7002
+Round result: 7005
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 7008
+Round result: 7011
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7017
+Round result: 7020
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 7021
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 7027
+Round result: 7030
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7031
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7032
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7033
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 7036
+Round result: 7039
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7040
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7041
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 7047
+Round result: 7050
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7056
+Round result: 7059
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 7061
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 7067
+Round result: 7069
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 7070
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7071
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7077
+Round result: 7080
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 7081
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7082
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 7085
+Round result: 7088
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 7091
+Round result: 7094
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7100
+Round result: 7103
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7109
+Round result: 7112
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 7113
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 7115
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 7118
+Round result: 7119
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 7122
+Round result: 7123
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7129
+Round result: 7132
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7138
+Round result: 7141
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7147
+Round result: 7150
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 7153
+Round result: 7156
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7162
+Round result: 7165
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 7168
+Round result: 7171
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 7177
+Round result: 7179
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 7185
+Round result: 7187
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 7190
+Round result: 7192
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7193
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 7196
+Round result: 7199
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7205
+Round result: 7208
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7214
+Round result: 7217
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7218
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7224
+Round result: 7227
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 7228
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 7234
+Round result: 7237
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7238
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 7239
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 7245
+Round result: 7247
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 7249
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7255
+Round result: 7258
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 7260
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 7263
+Round result: 7266
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 7268
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 7271
+Round result: 7274
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7280
+Round result: 7283
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 7286
+Round result: 7287
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 7290
+Round result: 7293
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7299
+Round result: 7302
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7308
+Round result: 7311
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 7314
+Round result: 7315
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7316
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 7318
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 7320
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 7322
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 7324
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7330
+Round result: 7333
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7339
+Round result: 7342
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7348
+Round result: 7351
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 7354
+Round result: 7357
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 7360
+Round result: 7361
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7367
+Round result: 7370
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 7373
+Round result: 7376
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7382
+Round result: 7385
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 7386
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 7389
+Round result: 7392
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7398
+Round result: 7401
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7402
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 7405
+Round result: 7408
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7409
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 7410
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7416
+Round result: 7419
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7420
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 7426
+Round result: 7429
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7435
+Round result: 7438
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 7441
+Round result: 7443
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 7445
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7451
+Round result: 7454
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 7457
+Round result: 7460
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 7463
+Round result: 7466
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 7469
+Round result: 7472
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 7474
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7480
+Round result: 7483
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7489
+Round result: 7492
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 7493
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7499
+Round result: 7502
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 7505
+Round result: 7508
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 7510
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 7511
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7517
+Round result: 7520
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7521
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 7523
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 7524
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 7526
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7527
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7533
+Round result: 7536
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 7542
+Round result: 7545
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7546
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 7549
+Round result: 7550
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7551
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 7554
+Round result: 7555
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 7558
+Round result: 7559
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7565
+Round result: 7568
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7574
+Round result: 7577
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 7583
+Round result: 7585
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7591
+Round result: 7594
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 7600
+Round result: 7603
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7604
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 7610
+Round result: 7613
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7619
+Round result: 7622
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7628
+Round result: 7631
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 7637
+Round result: 7640
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 7643
+Round result: 7644
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7650
+Round result: 7653
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 7654
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7655
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7661
+Round result: 7664
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7665
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 7666
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 7669
+Round result: 7670
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 7672
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 7675
+Round result: 7678
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 7681
+Round result: 7684
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7690
+Round result: 7693
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 7699
+Round result: 7702
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 7708
+Round result: 7711
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7717
+Round result: 7720
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7721
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 7724
+Round result: 7726
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7727
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 7729
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 7735
+Round result: 7738
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7739
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7740
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7746
+Round result: 7749
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 7751
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 7753
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7754
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 7755
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 7758
+Round result: 7761
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 7764
+Round result: 7765
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 7771
+Round result: 7773
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 7774
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7780
+Round result: 7783
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 7786
+Round result: 7788
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 7789
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 7791
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 7794
+Round result: 7797
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7803
+Round result: 7806
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 7807
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 7810
+Round result: 7811
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7812
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 7815
+Round result: 7816
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 7822
+Round result: 7825
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7831
+Round result: 7834
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 7837
+Round result: 7839
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 7840
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 7843
+Round result: 7845
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 7848
+Round result: 7851
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7852
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7853
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 7855
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 7861
+Round result: 7863
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 7866
+Round result: 7869
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 7872
+Round result: 7875
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 7878
+Round result: 7881
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 7882
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 7884
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7885
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 7891
+Round result: 7894
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 7895
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 7897
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 7899
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 7905
+Round result: 7908
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 7911
+Round result: 7914
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7915
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7916
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 7919
+Round result: 7920
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7921
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7927
+Round result: 7930
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 7931
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 7937
+Round result: 7940
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 7941
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7947
+Round result: 7950
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7956
+Round result: 7959
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7965
+Round result: 7968
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7974
+Round result: 7977
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 7980
+Round result: 7981
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 7987
+Round result: 7990
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 7991
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 7997
+Round result: 8000
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 8001
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 8004
+Round result: 8006
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 8007
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8013
+Round result: 8016
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 8022
+Round result: 8024
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8025
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 8028
+Round result: 8031
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 8037
+Round result: 8040
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8041
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 8043
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 8046
+Round result: 8047
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 8053
+Round result: 8056
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 8057
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 8060
+Round result: 8062
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 8064
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8065
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 8068
+Round result: 8069
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 8072
+Round result: 8075
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8076
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8082
+Round result: 8085
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 8088
+Round result: 8089
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8095
+Round result: 8098
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 8104
+Round result: 8106
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 8109
+Round result: 8110
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 8112
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8113
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 8115
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 8118
+Round result: 8119
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 8121
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 8123
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 8125
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 8128
+Round result: 8131
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 8134
+Round result: 8135
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 8138
+Round result: 8139
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8145
+Round result: 8148
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8149
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8155
+Round result: 8158
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8164
+Round result: 8167
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8173
+Round result: 8176
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8177
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8178
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8184
+Round result: 8187
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 8188
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 8191
+Round result: 8192
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 8198
+Round result: 8201
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 8207
+Round result: 8209
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8210
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 8213
+Round result: 8214
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 8220
+Round result: 8223
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8229
+Round result: 8232
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8238
+Round result: 8241
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 8243
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 8246
+Round result: 8247
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8253
+Round result: 8256
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 8258
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 8261
+Round result: 8262
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 8268
+Round result: 8271
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 8273
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 8279
+Round result: 8282
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 8285
+Round result: 8288
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 8291
+Round result: 8294
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 8296
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 8299
+Round result: 8302
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 8305
+Round result: 8306
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 8308
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 8314
+Round result: 8316
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 8319
+Round result: 8320
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 8323
+Round result: 8324
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 8325
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 8331
+Round result: 8334
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8335
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 8336
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 8338
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8339
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8345
+Round result: 8348
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8354
+Round result: 8357
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8363
+Round result: 8366
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 8369
+Round result: 8371
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 8374
+Round result: 8376
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 8378
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 8381
+Round result: 8382
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8388
+Round result: 8391
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 8397
+Round result: 8400
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8401
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 8402
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 8408
+Round result: 8411
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8412
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 8414
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 8416
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8422
+Round result: 8425
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8431
+Round result: 8434
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 8440
+Round result: 8443
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 8446
+Round result: 8448
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8454
+Round result: 8457
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8463
+Round result: 8466
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8467
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 8470
+Round result: 8472
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8478
+Round result: 8481
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8487
+Round result: 8490
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8491
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 8493
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 8496
+Round result: 8499
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 8505
+Round result: 8508
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 8510
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 8513
+Round result: 8514
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8515
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 8518
+Round result: 8520
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8526
+Round result: 8529
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 8535
+Round result: 8537
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 8540
+Round result: 8541
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8547
+Round result: 8550
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 8551
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8552
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 8558
+Round result: 8561
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8562
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 8564
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 8565
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 8567
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8568
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 8574
+Round result: 8576
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8582
+Round result: 8585
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8591
+Round result: 8594
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 8597
+Round result: 8600
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8606
+Round result: 8609
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 8611
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8612
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8613
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 8616
+Round result: 8618
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 8621
+Round result: 8624
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8625
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 8627
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 8633
+Round result: 8636
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 8638
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 8644
+Round result: 8647
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 8653
+Round result: 8655
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 8658
+Round result: 8659
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 8661
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8667
+Round result: 8670
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 8676
+Round result: 8679
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8680
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8681
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8682
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8683
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8684
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8690
+Round result: 8693
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 8699
+Round result: 8701
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 8704
+Round result: 8705
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 8711
+Round result: 8714
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 8716
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 8722
+Round result: 8724
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8730
+Round result: 8733
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8739
+Round result: 8742
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8743
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 8746
+Round result: 8747
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 8750
+Round result: 8751
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8752
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8753
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8754
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 8755
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 8758
+Round result: 8759
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8765
+Round result: 8768
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8774
+Round result: 8777
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 8778
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8784
+Round result: 8787
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 8793
+Round result: 8795
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 8798
+Round result: 8801
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 8803
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 8804
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 8805
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8811
+Round result: 8814
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 8817
+Round result: 8818
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 8821
+Round result: 8822
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8828
+Round result: 8831
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8837
+Round result: 8840
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8841
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 8844
+Round result: 8845
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8846
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 8852
+Round result: 8855
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 8858
+Round result: 8859
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 8862
+Round result: 8865
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 8871
+Round result: 8874
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 8877
+Round result: 8880
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8886
+Round result: 8889
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 8892
+Round result: 8893
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 8896
+Round result: 8898
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 8901
+Round result: 8904
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 8910
+Round result: 8913
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 8919
+Round result: 8922
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8923
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 8929
+Round result: 8932
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 8933
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 8936
+Round result: 8938
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8944
+Round result: 8947
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8948
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 8949
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8950
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8956
+Round result: 8959
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 8960
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 8962
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8963
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8964
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 8966
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 8972
+Round result: 8975
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 8981
+Round result: 8984
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 8985
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8986
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 8988
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 8994
+Round result: 8996
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 8997
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 9000
+Round result: 9001
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9007
+Round result: 9010
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 9012
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 9014
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 9016
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9022
+Round result: 9025
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 9027
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9033
+Round result: 9036
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9037
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9043
+Round result: 9046
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9052
+Round result: 9055
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 9061
+Round result: 9063
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9064
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 9065
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 9068
+Round result: 9071
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9077
+Round result: 9080
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9086
+Round result: 9089
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 9092
+Round result: 9093
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 9096
+Round result: 9098
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 9101
+Round result: 9102
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9108
+Round result: 9111
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 9114
+Round result: 9117
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9123
+Round result: 9126
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 9129
+Round result: 9132
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 9138
+Round result: 9141
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9142
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9148
+Round result: 9151
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9152
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9158
+Round result: 9161
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9162
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9168
+Round result: 9171
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9177
+Round result: 9180
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9181
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 9182
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9188
+Round result: 9191
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 9197
+Round result: 9200
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9201
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 9203
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 9204
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 9206
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 9208
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9209
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9215
+Round result: 9218
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9219
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9220
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 9223
+Round result: 9224
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9230
+Round result: 9233
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 9235
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 9237
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9243
+Round result: 9246
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9252
+Round result: 9255
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 9258
+Round result: 9261
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9262
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 9264
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9270
+Round result: 9273
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 9276
+Round result: 9277
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 9279
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 9282
+Round result: 9285
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9291
+Round result: 9294
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 9295
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 9297
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 9303
+Round result: 9306
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 9309
+Round result: 9312
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9313
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 9315
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9316
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 9319
+Round result: 9322
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 9325
+Round result: 9326
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 9327
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 9329
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9330
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 9332
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9333
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9334
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 9337
+Round result: 9340
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9341
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 9344
+Round result: 9347
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9353
+Round result: 9356
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9357
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9358
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 9364
+Round result: 9367
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 9370
+Round result: 9373
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9374
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9375
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9381
+Round result: 9384
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 9386
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9392
+Round result: 9395
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 9397
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9398
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 9401
+Round result: 9402
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 9405
+Round result: 9408
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 9411
+Round result: 9414
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 9420
+Round result: 9423
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 9424
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 9426
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 9432
+Round result: 9435
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 9438
+Round result: 9440
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 9442
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 9443
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 9445
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9451
+Round result: 9454
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 9457
+Round result: 9459
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9465
+Round result: 9468
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 9471
+Round result: 9474
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9480
+Round result: 9483
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9484
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 9487
+Round result: 9490
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 9496
+Round result: 9498
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9504
+Round result: 9507
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9513
+Round result: 9516
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 9519
+Round result: 9521
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 9522
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9528
+Round result: 9531
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 9534
+Round result: 9537
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9538
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 9540
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 9546
+Round result: 9549
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9550
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9551
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 9554
+Round result: 9557
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 9558
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9564
+Round result: 9567
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9568
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 9574
+Round result: 9577
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 9583
+Round result: 9586
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 9589
+Round result: 9591
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9592
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9593
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 9596
+Round result: 9597
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9598
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9599
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 9605
+Round result: 9608
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9614
+Round result: 9617
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9618
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9624
+Round result: 9627
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9628
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 9630
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9636
+Round result: 9639
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9640
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 9643
+Round result: 9644
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9650
+Round result: 9653
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9654
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 9656
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 9659
+Round result: 9660
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 9663
+Round result: 9666
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9672
+Round result: 9675
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9681
+Round result: 9684
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 9686
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9687
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 9693
+Round result: 9695
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 9697
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9698
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 9700
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 9706
+Round result: 9709
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9715
+Round result: 9718
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 9724
+Round result: 9726
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 9729
+Round result: 9731
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 9733
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 9736
+Round result: 9737
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 9740
+Round result: 9741
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9742
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9748
+Round result: 9751
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 9757
+Round result: 9760
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 9763
+Round result: 9764
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 9767
+Round result: 9769
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 9770
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9771
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 9772
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9773
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 9776
+Round result: 9779
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 9782
+Round result: 9784
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 9786
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 9789
+Round result: 9792
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9798
+Round result: 9801
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 9804
+Round result: 9806
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 9812
+Round result: 9815
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 9816
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 9822
+Round result: 9825
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9826
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 9829
+Round result: 9830
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 9833
+Round result: 9834
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9840
+Round result: 9843
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9849
+Round result: 9852
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 9858
+Round result: 9860
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9861
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 9864
+Round result: 9866
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 9869
+Round result: 9872
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9878
+Round result: 9881
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9882
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 9885
+Round result: 9886
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9887
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 9890
+Round result: 9893
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 9896
+Round result: 9897
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9898
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 9901
+Round result: 9904
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 9907
+Round result: 9910
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9911
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 9914
+Round result: 9915
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 9918
+Round result: 9919
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 9922
+Round result: 9925
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 9931
+Round result: 9933
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 9936
+Round result: 9939
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 9942
+Round result: 9944
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 9945
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 9948
+Round result: 9951
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 9954
+Round result: 9955
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 9958
+Round result: 9961
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9967
+Round result: 9970
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 9973
+Round result: 9976
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 9982
+Round result: 9985
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 9991
+Round result: 9994
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 9997
+Round result: 10000
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 10006
+Round result: 10008
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 10014
+Round result: 10017
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 10020
+Round result: 10022
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 10023
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 10029
+Round result: 10031
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10032
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 10034
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 10035
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10041
+Round result: 10044
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 10047
+Round result: 10050
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10056
+Round result: 10059
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 10062
+Round result: 10065
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 10068
+Round result: 10071
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 10074
+Round result: 10075
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 10081
+Round result: 10083
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10084
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10090
+Round result: 10093
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 10096
+Round result: 10097
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 10103
+Round result: 10105
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 10108
+Round result: 10111
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 10113
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 10115
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10121
+Round result: 10124
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10125
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10131
+Round result: 10134
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10140
+Round result: 10143
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 10149
+Round result: 10151
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10157
+Round result: 10160
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10166
+Round result: 10169
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10175
+Round result: 10178
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10184
+Round result: 10187
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10193
+Round result: 10196
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10202
+Round result: 10205
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10211
+Round result: 10214
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10215
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 10216
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10222
+Round result: 10225
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 10228
+Round result: 10229
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 10232
+Round result: 10233
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10234
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 10240
+Round result: 10242
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10243
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10244
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 10246
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10252
+Round result: 10255
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 10256
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 10258
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 10264
+Round result: 10266
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 10272
+Round result: 10274
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10275
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 10281
+Round result: 10284
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10290
+Round result: 10293
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10294
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 10297
+Round result: 10300
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10301
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 10307
+Round result: 10310
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10316
+Round result: 10319
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10325
+Round result: 10328
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 10329
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10335
+Round result: 10338
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 10340
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 10346
+Round result: 10348
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10349
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10350
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 10356
+Round result: 10359
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 10360
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10366
+Round result: 10369
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10375
+Round result: 10378
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 10379
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 10381
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 10383
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 10386
+Round result: 10387
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 10393
+Round result: 10396
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10402
+Round result: 10405
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10411
+Round result: 10414
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10415
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 10418
+Round result: 10420
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 10423
+Round result: 10424
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 10427
+Round result: 10428
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10429
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 10431
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 10433
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 10436
+Round result: 10438
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10439
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10440
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10441
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 10444
+Round result: 10445
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10451
+Round result: 10454
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 10460
+Round result: 10463
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 10464
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10470
+Round result: 10473
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10479
+Round result: 10482
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 10488
+Round result: 10491
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10492
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 10495
+Round result: 10496
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10502
+Round result: 10505
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10511
+Round result: 10514
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 10516
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 10518
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10524
+Round result: 10527
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10528
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 10529
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10530
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 10533
+Round result: 10535
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 10537
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10538
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10539
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10545
+Round result: 10548
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 10551
+Round result: 10552
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 10558
+Round result: 10561
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10567
+Round result: 10570
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 10573
+Round result: 10574
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10575
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 10581
+Round result: 10584
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10585
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 10591
+Round result: 10593
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 10595
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 10597
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 10600
+Round result: 10601
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10602
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10603
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 10606
+Round result: 10609
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 10610
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10616
+Round result: 10619
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 10625
+Round result: 10627
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10633
+Round result: 10636
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 10642
+Round result: 10644
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 10647
+Round result: 10648
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10649
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10655
+Round result: 10658
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10659
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 10662
+Round result: 10665
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10666
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10672
+Round result: 10675
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10681
+Round result: 10684
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10690
+Round result: 10693
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 10696
+Round result: 10699
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10705
+Round result: 10708
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 10714
+Round result: 10717
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 10723
+Round result: 10726
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 10728
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 10731
+Round result: 10734
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 10735
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 10741
+Round result: 10743
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 10749
+Round result: 10752
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 10758
+Round result: 10761
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 10762
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 10768
+Round result: 10771
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 10773
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10779
+Round result: 10782
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10783
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 10785
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10791
+Round result: 10794
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 10800
+Round result: 10803
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10804
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10810
+Round result: 10813
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10814
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 10820
+Round result: 10822
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 10823
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 10826
+Round result: 10829
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10835
+Round result: 10838
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10839
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 10845
+Round result: 10848
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 10849
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10855
+Round result: 10858
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10864
+Round result: 10867
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 10873
+Round result: 10875
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 10876
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 10882
+Round result: 10885
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10886
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 10889
+Round result: 10891
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10897
+Round result: 10900
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10901
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 10904
+Round result: 10907
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 10908
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10914
+Round result: 10917
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10918
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 10921
+Round result: 10922
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 10928
+Round result: 10931
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 10937
+Round result: 10940
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10946
+Round result: 10949
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10955
+Round result: 10958
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10959
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10965
+Round result: 10968
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 10971
+Round result: 10974
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10980
+Round result: 10983
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 10984
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 10986
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 10989
+Round result: 10992
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 10998
+Round result: 11001
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 11007
+Round result: 11010
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 11011
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 11014
+Round result: 11016
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 11019
+Round result: 11020
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 11021
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 11024
+Round result: 11025
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 11031
+Round result: 11034
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 11040
+Round result: 11043
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 11044
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11050
+Round result: 11053
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11059
+Round result: 11062
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11068
+Round result: 11071
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 11074
+Round result: 11075
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 11076
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 11082
+Round result: 11085
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11091
+Round result: 11094
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 11096
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 11099
+Round result: 11102
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11108
+Round result: 11111
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 11112
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 11118
+Round result: 11120
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 11122
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 11125
+Round result: 11128
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 11131
+Round result: 11134
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 11140
+Round result: 11143
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 11146
+Round result: 11147
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 11153
+Round result: 11155
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 11156
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 11162
+Round result: 11164
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 11165
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 11168
+Round result: 11169
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 11175
+Round result: 11178
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 11180
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 11183
+Round result: 11184
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 11190
+Round result: 11193
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 11196
+Round result: 11197
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 11203
+Round result: 11205
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 11206
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 11209
+Round result: 11210
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 11212
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 11213
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 11219
+Round result: 11222
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11228
+Round result: 11231
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 11237
+Round result: 11240
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 11243
+Round result: 11244
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 11246
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 11252
+Round result: 11254
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11260
+Round result: 11263
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11269
+Round result: 11272
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 11275
+Round result: 11278
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 11284
+Round result: 11287
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 11290
+Round result: 11292
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 11294
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 11295
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 11301
+Round result: 11304
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 11307
+Round result: 11308
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 11311
+Round result: 11312
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 11313
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 11315
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 11316
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 11319
+Round result: 11320
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 11323
+Round result: 11326
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 11327
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 11328
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 11329
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 11332
+Round result: 11333
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 11334
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 11340
+Round result: 11343
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11349
+Round result: 11352
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11358
+Round result: 11361
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 11364
+Round result: 11367
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 11370
+Round result: 11373
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11379
+Round result: 11382
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 11385
+Round result: 11386
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 11388
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 11389
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 11395
+Round result: 11398
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 11400
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 11401
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11407
+Round result: 11410
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 11413
+Round result: 11416
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11422
+Round result: 11425
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11431
+Round result: 11434
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 11437
+Round result: 11440
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 11446
+Round result: 11449
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 11450
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11456
+Round result: 11459
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 11460
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 11462
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11468
+Round result: 11471
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 11474
+Round result: 11475
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11481
+Round result: 11484
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11490
+Round result: 11493
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11499
+Round result: 11502
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11508
+Round result: 11511
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 11512
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 11514
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 11515
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 11521
+Round result: 11524
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 11527
+Round result: 11528
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 11531
+Round result: 11534
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 11537
+Round result: 11540
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11546
+Round result: 11549
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 11550
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 11553
+Round result: 11556
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 11562
+Round result: 11565
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11571
+Round result: 11574
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 11577
+Round result: 11580
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 11582
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 11585
+Round result: 11586
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 11592
+Round result: 11595
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 11601
+Round result: 11603
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11609
+Round result: 11612
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11618
+Round result: 11621
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 11624
+Round result: 11627
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 11633
+Round result: 11636
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 11638
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 11639
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 11645
+Round result: 11647
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 11653
+Round result: 11655
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 11656
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 11658
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 11659
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 11665
+Round result: 11668
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 11671
+Round result: 11674
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 11675
+-----
+Round: ("B", "Y")
+Paper x Paper
+DRAW: 11678
+Round result: 11680
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 11681
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 11682
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 11685
+Round result: 11688
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 11691
+Round result: 11694
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 11700
+Round result: 11703
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 11706
+Round result: 11709
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11715
+Round result: 11718
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 11720
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 11726
+Round result: 11729
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 11732
+Round result: 11735
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 11738
+Round result: 11741
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11747
+Round result: 11750
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 11756
+Round result: 11759
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 11761
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 11764
+Round result: 11767
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 11770
+Round result: 11771
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 11777
+Round result: 11780
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 11786
+Round result: 11789
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 11795
+Round result: 11797
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 11803
+Round result: 11806
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 11807
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11813
+Round result: 11816
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 11817
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 11823
+Round result: 11826
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 11829
+Round result: 11832
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 11833
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 11839
+Round result: 11842
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 11848
+Round result: 11851
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 11854
+Round result: 11855
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 11861
+Round result: 11863
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11869
+Round result: 11872
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 11878
+Round result: 11881
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 11887
+Round result: 11890
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11896
+Round result: 11899
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 11905
+Round result: 11907
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 11908
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 11910
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 11912
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 11914
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 11920
+Round result: 11922
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 11928
+Round result: 11931
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 11932
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11938
+Round result: 11941
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11947
+Round result: 11950
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 11952
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 11953
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11959
+Round result: 11962
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11968
+Round result: 11971
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 11973
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 11979
+Round result: 11982
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 11983
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 11986
+Round result: 11989
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 11990
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 11996
+Round result: 11999
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 12002
+Round result: 12003
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 12006
+Round result: 12009
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 12015
+Round result: 12018
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 12020
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 12026
+Round result: 12029
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 12035
+Round result: 12038
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 12039
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 12040
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 12046
+Round result: 12049
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 12052
+Round result: 12055
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 12056
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 12057
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 12063
+Round result: 12066
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 12067
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 12068
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 12070
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 12073
+Round result: 12074
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 12076
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 12077
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 12079
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 12080
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 12083
+Round result: 12086
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 12087
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 12088
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 12089
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 12095
+Round result: 12098
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 12099
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 12105
+Round result: 12108
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 12111
+Round result: 12114
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 12116
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 12118
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 12119
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 12125
+Round result: 12128
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 12130
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 12136
+Round result: 12139
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 12141
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 12143
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 12149
+Round result: 12152
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 12158
+Round result: 12161
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 12164
+Round result: 12165
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 12168
+Round result: 12171
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 12177
+Round result: 12180
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 12183
+Round result: 12184
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 12186
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 12187
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 12189
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 12195
+Round result: 12197
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 12203
+Round result: 12206
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 12212
+Round result: 12215
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 12218
+Round result: 12219
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 12220
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 12221
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 12227
+Round result: 12229
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 12232
+Round result: 12235
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 12236
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 12239
+Round result: 12240
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 12242
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 12248
+Round result: 12251
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 12252
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 12258
+Round result: 12260
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 12266
+Round result: 12269
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 12270
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 12271
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 12277
+Round result: 12280
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 12283
+Round result: 12284
+-----
+Round: ("C", "X")
+Scissor x Rock
+Round result: 12285
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 12291
+Round result: 12294
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 12296
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 12302
+Round result: 12305
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 12311
+Round result: 12314
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 12317
+Round result: 12318
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 12321
+Round result: 12324
+-----
+Round: ("B", "X")
+Paper x Rock
+Round result: 12325
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 12331
+Round result: 12333
+-----
+Round: ("C", "Z")
+Scissor x Scissor
+DRAW: 12336
+Round result: 12339
+-----
+Round: ("A", "Y")
+Rock x Paper
+WIN: 12345
+Round result: 12347
+-----
+Round: ("C", "Y")
+Scissor x Paper
+Round result: 12349
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 12352
+Round result: 12353
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 12359
+Round result: 12362
+-----
+Round: ("A", "Z")
+Rock x Scissor
+WIN: 12368
+Round result: 12371
+-----
+Round: ("A", "X")
+Rock x Rock
+DRAW: 12374
+Round result: 12375
+-----
+Round: ("B", "Z")
+Paper x Scissor
+WIN: 12381
+Round result: 12384
+-----
+My total score would be: 12384
