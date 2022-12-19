@@ -1,39 +1,99 @@
-use std::cmp::Ordering;
+use std::{cmp::Ordering, collections::binary_heap::Iter};
 
-use utils::get_input;
+use utils;
 
 const WIN: i32 = 6;
 const DRAW: i32 = 3;
 
 fn main() {
-    let input = get_input();
+    let input = utils::get_input();
 
+    part_1(&input);
+    part_2(&input);
+}
+
+fn part_1(input: &str) {
     let mut total_score = 0;
 
-    for line in input.lines() {
-        let split = line.split_once(" ").unwrap();
-
-        let opponent_play = Janken::from(split.0);
-
-        let my_play: Janken = Janken::from(split.1);
-
-        if my_play > opponent_play {
+    for round in parse_rounds(&input) {
+        if round.my_play > round.opponent_play {
             total_score += WIN;
-        } else if my_play == opponent_play {
+        } else if round.my_play == round.opponent_play {
             total_score += DRAW;
         }
 
-        total_score += i32::from(my_play);
+        total_score += i32::from(round.my_play);
     }
 
     println!("My total score would be: {}", total_score);
 }
 
-#[derive(Eq, PartialEq, Debug)]
+fn part_2(input: &str) {
+    let mut total_score = 0;
+
+    for round in parse_rounds(&input) {
+        match round.expected_result {
+            RoundResult::Win => {
+                total_score += WIN;
+                total_score += i32::from(round.opponent_play.to_win());
+            },
+            RoundResult::Draw => {
+                total_score += DRAW;
+                total_score += i32::from(round.opponent_play.to_draw());
+            },
+            RoundResult::Lose => {
+                total_score += i32::from(round.opponent_play.to_lose());
+            }
+        }
+    }
+
+    println!("My total score following the strategy would be: {}", total_score);
+}
+
+fn parse_rounds(input: &str) -> Vec<Round> {
+    input.lines()
+        .map(|line| {
+            let plays = line.split_once(" ").unwrap();
+            Round {
+                opponent_play: Janken::from(plays.0), 
+                my_play: Janken::from(plays.1),
+                expected_result: RoundResult::from(plays.1)
+            }
+        })
+        .collect()
+}
+
+struct Round {
+    opponent_play: Janken,
+    my_play: Janken,
+    expected_result: RoundResult
+}
+
+#[derive(Eq, PartialEq, Debug, Clone)]
 enum Janken {
     Rock,
     Paper,
     Scissors,
+}
+
+impl Janken {
+    fn to_win(&self) -> Self {
+        match self {
+            Janken::Rock => Janken::Paper,
+            Janken::Paper => Janken::Scissors,
+            Janken::Scissors => Janken::Rock
+        }
+    }
+    fn to_draw(&self) -> Self {
+        self.clone()
+    }
+    fn to_lose(&self) -> Self {
+        match self {
+            Janken::Rock => Janken::Scissors,
+            Janken::Paper => Janken::Rock,
+            Janken::Scissors => Janken::Paper
+        }
+    }
 }
 
 /// Parsing &str values to Janken enum
@@ -84,6 +144,23 @@ impl PartialOrd for Janken {
                 Self::Scissors => Ordering::Equal,
             },
         })
+    }
+}
+
+enum RoundResult {
+    Win,
+    Draw,
+    Lose
+}
+
+impl From<&str> for RoundResult {
+    fn from(s: &str) -> RoundResult {
+        match s {
+            "X" => RoundResult::Lose,
+            "Y" => RoundResult::Draw,
+            "Z" => RoundResult::Win,
+            _ => panic!("invalid play"),
+        }
     }
 }
 
